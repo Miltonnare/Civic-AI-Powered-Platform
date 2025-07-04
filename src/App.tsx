@@ -111,7 +111,10 @@ const AppContent: React.FC = () => {
         onTabChange={setActiveTab}
         notificationCount={3}
       />
-      {renderContent()}
+      {/* Add top padding to account for fixed navbar */}
+      <div className="pt-16 md:pt-16">
+        {renderContent()}
+      </div>
     </div>
   );
 };
