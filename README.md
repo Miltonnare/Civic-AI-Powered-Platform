@@ -24,7 +24,7 @@ User Profiles: Track progress, customize learning paths, and enable actionable c
 
 # **Installation**
 
-git clone https://github.com/yourusername/civic-education-platform.git
+git clone https://github.com/Miltonnare/Civic-AI-Powered-Platform.git
 
 cd CivicE
 
