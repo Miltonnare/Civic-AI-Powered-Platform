@@ -33,6 +33,7 @@ cd CivicE
 
 Allowed to Contribute 
 
+Let's work together for the next Civic Education Application.
 
 
 .
